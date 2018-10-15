@@ -14,3 +14,6 @@ The goal of these cores is to represent the official core builds accurate, while
 *   "Advanced" scaler options (Hq2x, CRT) may have visual artifacts
 *   There may be other unintended visual issues. If this is the case, use the official core for your setup.
 
+
+## Notes ##
+I consider this a stop-gap solution to satisfy more demanding users as the scaling matures in the main project. These should be considered unstable test builds for enthusiasts, and in time I hope an equivilent or better solution for a clear HDMI scaler becomes available without special builds.

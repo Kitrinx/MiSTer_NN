@@ -1,7 +1,7 @@
 # range -128..128
 # sum of line must not exceed the range!
 
-# Poly Phase
+# Lanczos2
 
 # horizontal coefficients
  -24, 176, -24,   0
